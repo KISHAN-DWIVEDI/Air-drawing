@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#video-feed {
+    border: 2px solid #000;
+}
